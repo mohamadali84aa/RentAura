@@ -1,7 +1,6 @@
 backend:
-  name: github
-  repo: mohamadali84aa/RentAura
-  branch: main
+  name: git-gateway
+  branch: main  # or master depending on your repo
 media_folder: "public/uploads"
 public_folder: "/uploads"
 collections:
