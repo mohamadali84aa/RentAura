@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: mohamadali84aa/RentAura
+  repo: Mohamadali_222/RentAura
   branch: main
 media_folder: "public/uploads"
 public_folder: "/uploads"
